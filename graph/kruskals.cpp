@@ -24,5 +24,12 @@ sz[x]+=sz[y];
 }
 int main()
 {
-
+   int n;
+   cin>>n;
+   vector<vector<int>> edges;
+   for(int i=0;i<n;i++)
+   {
+       int u,v,w;
+       cin>>u>>v>>w;
+   }
 }
